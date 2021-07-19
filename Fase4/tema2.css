@@ -78,7 +78,7 @@ nav ul {
 .pdfview {
     margin:auto;
     display: block;
-    width: 800px;
+    width: 500px;
     height: 60vh;
     border-radius: 20px;
     box-shadow: 0 4px 8px 0 rgba(0,0, 0, 0.19);
